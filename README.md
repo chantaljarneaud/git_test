@@ -1,0 +1,1 @@
+This is Chantal's first git project!
